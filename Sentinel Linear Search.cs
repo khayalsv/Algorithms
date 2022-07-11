@@ -15,7 +15,7 @@ namespace Algorithm
 
         static void sentinalSearch(int[] arr,int n,int key)  //array,array length,key
         {
-            n = arr.Length;
+            //n = arr.Length;
 
             int i = 0;
             while (arr[i] != key)

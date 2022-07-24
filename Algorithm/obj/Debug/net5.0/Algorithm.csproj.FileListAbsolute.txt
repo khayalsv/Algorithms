@@ -1,0 +1,16 @@
+C:\Users\selim\Desktop\Programming\Algorithms\Algorithm\bin\Debug\net5.0\Algorithm.exe
+C:\Users\selim\Desktop\Programming\Algorithms\Algorithm\bin\Debug\net5.0\Algorithm.deps.json
+C:\Users\selim\Desktop\Programming\Algorithms\Algorithm\bin\Debug\net5.0\Algorithm.runtimeconfig.json
+C:\Users\selim\Desktop\Programming\Algorithms\Algorithm\bin\Debug\net5.0\Algorithm.runtimeconfig.dev.json
+C:\Users\selim\Desktop\Programming\Algorithms\Algorithm\bin\Debug\net5.0\Algorithm.dll
+C:\Users\selim\Desktop\Programming\Algorithms\Algorithm\bin\Debug\net5.0\ref\Algorithm.dll
+C:\Users\selim\Desktop\Programming\Algorithms\Algorithm\bin\Debug\net5.0\Algorithm.pdb
+C:\Users\selim\Desktop\Programming\Algorithms\Algorithm\obj\Debug\net5.0\Algorithm.csproj.AssemblyReference.cache
+C:\Users\selim\Desktop\Programming\Algorithms\Algorithm\obj\Debug\net5.0\Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selim\Desktop\Programming\Algorithms\Algorithm\obj\Debug\net5.0\Algorithm.AssemblyInfoInputs.cache
+C:\Users\selim\Desktop\Programming\Algorithms\Algorithm\obj\Debug\net5.0\Algorithm.AssemblyInfo.cs
+C:\Users\selim\Desktop\Programming\Algorithms\Algorithm\obj\Debug\net5.0\Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\selim\Desktop\Programming\Algorithms\Algorithm\obj\Debug\net5.0\Algorithm.dll
+C:\Users\selim\Desktop\Programming\Algorithms\Algorithm\obj\Debug\net5.0\ref\Algorithm.dll
+C:\Users\selim\Desktop\Programming\Algorithms\Algorithm\obj\Debug\net5.0\Algorithm.pdb
+C:\Users\selim\Desktop\Programming\Algorithms\Algorithm\obj\Debug\net5.0\Algorithm.genruntimeconfig.cache
